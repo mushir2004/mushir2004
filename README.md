@@ -2,7 +2,8 @@
 - 👀 I’m interested in ... to know about the c language 
 - 🌱 I’m currently learning ...c language 
 - 💞️ I’m looking to collaborate on ... c language and python 
-- 📫 How to reach me ...reach me through me email
+- 📫 How to reach me ...reach me through 
+email
 
 <!---
 mushir2004/mushir2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
