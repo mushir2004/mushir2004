@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mushir
--   i love to code
+-    Love to explore new things
 - 🌱 I’m currently learning Javascript 
 - 💞️ I’m looking to collaborate on C language, C++,Python,HTML CSS,Machine Language 
 - 📫 Reach me through alammushir7100@gmail.com
