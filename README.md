@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md Mushir Alam</h1>
 <h3 align="center">I am a passionate Software Engineer. I love Machine learning, and try to be better everyday.</h3>
 
-- 🔭 I’m currently working on [OBJECT DETECTION MODEL YOLOv4](https://github.com/mushir2004/Object-Detection-Model-Yolov4)
+- 🔭 I’m currently working on [Credit-Card Fraud Detection](https://github.com/mushir2004/Credit-Card-Fraud-Detection-)
 
 - 🌱 I’m currently learning **Deep Learning and NLP**
 
