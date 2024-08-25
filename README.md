@@ -3,7 +3,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mushir2004)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 I’m currently working on [Credit-Card Fraud Detection](https://github.com/mushir2004/Credit-Card-Fraud-Detection-)
+- 🔭 I’m currently working on Java and BharatIntern Project[]
 
 - 🌱 I’m currently learning **Deep Learning and NLP**
 
