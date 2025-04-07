@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Md Mushir Alam</h1>
-<h3 align="center">I am a passionate Software Engineer. I love Machine learning, and try to be better everyday.</h3>
+<h3 align="center">I am a passionate Software Engineer. I love Machine learning, Deep Learning, NLP and try to be better everyday.</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mushir2004)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 I’m currently working on Java and BharatIntern Project[https://github.com/mushir2004/BharatIntern-Project]
+- 🔭 I’m currently working on Pragati AI Project
 
 - 🌱 I’m currently learning **Deep Learning and NLP**
 
