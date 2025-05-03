@@ -3,7 +3,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mushir2004)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 I’m currently working on Pragati AI Project
+- 🔭 I’m currently working on Quantum Computating
 
 - 🌱 I’m currently learning **Deep Learning and NLP**
 
