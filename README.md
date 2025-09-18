@@ -3,9 +3,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mushir2004)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 I’m currently working on Quantum Computating
-
-- 🌱 I’m currently learning **Deep Learning and NLP**
+- 🌱 I’m currently learning **Deep Learning, NLP and Generative AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mushir2004](https://github.com/mushir2004)
 
