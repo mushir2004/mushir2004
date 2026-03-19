@@ -45,19 +45,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/mushir2004">
-    <img src="https://github-readme-stats.vercel.app/api?username=mushir2004&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="mushir2004 GitHub Stats" />
-  </a>
-  <a href="https://github.com/mushir2004">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mushir2004&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
-  </a>
-</p>
-
----
-
 ### 🔗 Connect with me
 
 <p align="left">
