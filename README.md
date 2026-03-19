@@ -10,7 +10,6 @@
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently a B.Tech CS (AIML) undergraduate.
-- 🚀 I recently wrapped up a Summer Research Internship at IIT Dhanbad, focusing on Explainable AI (XAI) for 5G/6G communications.
 - 📫 Reach out to me: **[alammushir7100@gmail.com](mailto:alammushir7100@gmail.com)**| **[LinkedIn](https://www.linkedin.com/in/md-mushir-alam-32a765295/)**
 
 ---
