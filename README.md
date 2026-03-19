@@ -26,7 +26,7 @@
 * 🥇 **1st Prize at MOZOVATE:** For developing the *Farm-Bud* platform, aligning with SDG 2: Zero Hunger.
 * 🥇 **1st Prize at DATATHON 2.0:** Tackled bias in AI models to ensure fairness and transparency in AI deployments.
 * 🥇 **1st Prize at DATAKON:** Presented a Power BI analytical dashboard visualizing the effects of climate change on agriculture.
-* 🌟 **Winner at Samgatha Vashisht 2025:** IEEE Paper Presentation recognized for innovative A-star pathfinding algorithm integration in video games.
+* 🥇 **Winner at Samgatha Vashisht 2025:** IEEE Paper Presentation recognized for innovative A-star pathfinding algorithm integration in video games.
 
 ---
 
@@ -67,5 +67,4 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/md-mushir-alam-32a765295/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md mushir alam" height="30" width="40" /></a>
-  <a href="mailto:alammushir7100@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mushir7100" height="30" width="40" /></a>
 </p>
