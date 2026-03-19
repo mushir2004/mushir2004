@@ -10,7 +10,6 @@
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently building and optimizing **LLM applications** and **AI Agents**.
-- 🌱 Constantly exploring the depths of **Machine Learning, Deep Learning, and NLP**.
 - 💡 I enjoy turning data into actionable insights and deploying models into real-world environments.
 - 📫 How to reach me: **[alammushir7100@gmail.com](mailto:alammushir7100@gmail.com)**
 
