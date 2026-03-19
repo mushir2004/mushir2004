@@ -2,36 +2,32 @@
 <h3 align="center">Software Engineer | AI & Machine Learning Enthusiast</h3>
 
 <p align="center">
-  I am passionate about building intelligent systems and solving complex problems. I am currently focusing my work on <b>Generative AI, LLMs, RAG, and Agentic AI systems</b>[cite: 16].
+  I am passionate about building intelligent systems and solving complex problems. I am currently focusing my work on <b>Generative AI, LLMs, RAG, and Agentic AI systems</b>.
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently a B.Tech CS (AIML) student at SRMIST [cite: 6, 7], maintaining a 9.61 CGPA[cite: 7].
-- 🚀 I recently wrapped up a Summer Research Internship at IIT Dhanbad, focusing on Explainable AI (XAI) for 5G/6G communications[cite: 18, 19].
-- 🎮 I am the founder of **The Game Forge**, where I've built a thriving game development community of 80+ active members[cite: 20, 21].
-- 💻 My workflow heavily revolves around Windows environments, where I frequently use Jupyter Notebooks for data analysis and Docker for managing containerized deployments.
-- 📫 Reach out to me: **[alammushir7100@gmail.com](mailto:alammushir7100@gmail.com)** [cite: 3] | **[LinkedIn](https://www.linkedin.com/in/md-mushir-alam-32a765295/)** [cite: 4]
+- 🔭 I’m currently a B.Tech CS (AIML) undergraduate.
+- 🚀 I recently wrapped up a Summer Research Internship at IIT Dhanbad, focusing on Explainable AI (XAI) for 5G/6G communications.
+- 📫 Reach out to me: **[alammushir7100@gmail.com](mailto:alammushir7100@gmail.com)**| **[LinkedIn](https://www.linkedin.com/in/md-mushir-alam-32a765295/)**
 
 ---
 
 ### 🚀 Featured Projects
 
-* **DebateForge:** A full-stack, multi-agent AI platform (NextJS, Python, FastAPI, Ollama) that orchestrates real-time, voice-integrated debates between stateful LLMs with live fallacy detection[cite: 31, 33].
-* **AI Agent for P&ID Digitization:** Developed a privacy-first GenAI agent using Microsoft Florence-2 on a local GPU to autonomously digitize complex P&ID schematics[cite: 23, 29].
-* **Farm-Bud:** An AI-powered platform providing small-scale farmers with real-time weather updates, crop prediction, and disease detection using CNN-based ML models[cite: 34, 36].
-* **Data & Predictive Analytics:** Recently engineered solutions for predicting sinkholes using vehicular sensor data and developed a Hostel Mess Food Wastage Tracker & Analytics Dashboard.
-
+* **DebateForge:** A full-stack, multi-agent AI platform (NextJS, Python, FastAPI, Ollama) that orchestrates real-time, voice-integrated debates between stateful LLMs with live fallacy detection.
+* **AI Agent for P&ID Digitization:** Developed a privacy-first GenAI agent using Microsoft Florence-2 on a local GPU to autonomously digitize complex P&ID schematics.
+* **Farm-Bud:** An AI-powered platform providing small-scale farmers with real-time weather updates, crop prediction, and disease detection using CNN-based ML models.
 ---
 
 ### 🏆 Awards & Achievements
 
-* 🥇 **1st Prize at MOZOVATE:** For developing the *Farm-Bud* platform, aligning with SDG 2: Zero Hunger[cite: 46].
-* 🥇 **1st Prize at DATATHON 2.0:** Tackled bias in AI models to ensure fairness and transparency in AI deployments[cite: 50, 52].
-* 🥇 **1st Prize at DATAKON:** Presented a Power BI analytical dashboard visualizing the effects of climate change on agriculture[cite: 53, 55].
-* 🌟 **Winner at Samgatha Vashisht 2025:** IEEE Paper Presentation recognized for innovative A-star pathfinding algorithm integration in video games[cite: 47, 49].
+* 🥇 **1st Prize at MOZOVATE:** For developing the *Farm-Bud* platform, aligning with SDG 2: Zero Hunger.
+* 🥇 **1st Prize at DATATHON 2.0:** Tackled bias in AI models to ensure fairness and transparency in AI deployments.
+* 🥇 **1st Prize at DATAKON:** Presented a Power BI analytical dashboard visualizing the effects of climate change on agriculture.
+* 🌟 **Winner at Samgatha Vashisht 2025:** IEEE Paper Presentation recognized for innovative A-star pathfinding algorithm integration in video games.
 
 ---
 
@@ -61,10 +57,10 @@
 ---
 
 ### 📜 Certifications
-* **Salesforce:** Certified Agentforce Specialist [cite: 39]
-* **Red Hat:** OpenShift Development 1 (Containers with Podman) [cite: 38, 39]
-* **Oracle:** Cloud Infrastructure 2024 Data Certified Foundation Associate [cite: 41, 42]
-* **Zscaler:** Fundamentals of Cybersecurity [cite: 43, 44]
+* **Salesforce:** Certified Agentforce Specialist
+* **Red Hat:** OpenShift Development 1 (Containers with Podman)
+* **Oracle:** Cloud Infrastructure 2024 Data Certified Foundation Associate
+* **Zscaler:** Fundamentals of Cybersecurity
 
 ---
 
