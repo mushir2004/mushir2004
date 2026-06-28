@@ -26,7 +26,7 @@
 * 🥇 **1st Prize at MOZOVATE:** For developing the *Farm-Bud* platform, aligning with SDG 2: Zero Hunger.
 * 🥇 **1st Prize at DATATHON 2.0:** Tackled bias in AI models to ensure fairness and transparency in AI deployments.
 * 🥇 **1st Prize at DATAKON:** Presented a Power BI analytical dashboard visualizing the effects of climate change on agriculture.
-* 🥇 **Winner at Samgatha Vashisht 2025:** IEEE Paper Presentation recognized for innovative A-star pathfinding algorithm integration     in video games.
+* 🥇 **Winner at Samgatha Vashisht 2025:** IEEE Paper Presentation recognized for innovative A-star pathfinding algorithm integration   in   video   games.
 
 ---
 
