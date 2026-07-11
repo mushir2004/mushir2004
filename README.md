@@ -1,5 +1,6 @@
-```.--------------.   mdmushiralam@github
-      |  __________  |   -------------------
+```text
+      .--------------.   mushir2004@github
+      |  __________  |   -----------------
       | |          | |   Role: ............. Software Engineer | AI & ML Enthusiast
       | | >_       | |   Education: ........ B.Tech CS (AIML) Undergraduate
       | |          | |   Focus: ............ Generative AI, LLMs, RAG, Agentic AI
