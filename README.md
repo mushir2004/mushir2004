@@ -1,4 +1,4 @@
-.--------------.   mdmushiralam@github
+```.--------------.   mdmushiralam@github
       |  __________  |   -------------------
       | |          | |   Role: ............. Software Engineer | AI & ML Enthusiast
       | | >_       | |   Education: ........ B.Tech CS (AIML) Undergraduate
@@ -19,3 +19,4 @@
                          Contact:
                          Email: ............ alammushir7100@gmail.com
                          LinkedIn: ......... /in/md-mushir-alam-32a765295/
+```
